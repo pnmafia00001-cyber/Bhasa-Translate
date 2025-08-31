@@ -1,3 +1,5 @@
+pubspec.yaml'
+
 name: bhasha_translator
 description: A simple local language translator app for India
 publish_to: 'none' 
